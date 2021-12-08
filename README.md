@@ -1,3 +1,9 @@
+---
+
+Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)
+
+---
+
 # Анализ рынка заведений общественного питания города Москвы
 
 ---
@@ -36,5 +42,9 @@
 **Часть 3.** Формирование общего вывода исследования и рекомендаций
 
 **Часть 4.** Подготовка презентации для инвесторов по итогам исследования
+
+---
+
+Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)
 
 ---
