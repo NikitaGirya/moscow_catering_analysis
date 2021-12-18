@@ -11,8 +11,8 @@
 
 <p align='center'>
   <img src='https://www.2do2go.ru/uploads/e4a0da79aebb580de50908e1e1f73710_w1188_h475.jpg' width=1000 height=400 />
+  Московский ресторан White Rabbit - обладатель звезды Michelin 2022
 </p>
-<center>Московский ресторан White Rabbit - обладатель звезды Michelin 2022</center>
 
 ---
 
