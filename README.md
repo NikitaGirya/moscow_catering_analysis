@@ -7,6 +7,8 @@
 
 # Анализ рынка заведений общественного питания города Москвы
 
+`pandas`  `numpy`  `itertools`  `plotly`  `Microsoft PowerPoint`
+
 ---
 
 <p align='center'>
