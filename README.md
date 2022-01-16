@@ -1,6 +1,7 @@
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)**
 
 ---
 
@@ -10,8 +11,8 @@
 
 <p align='center'>
   <img src='https://www.2do2go.ru/uploads/e4a0da79aebb580de50908e1e1f73710_w1188_h475.jpg' width=1000 height=400 />
+  Московский ресторан White Rabbit - обладатель звезды Michelin 2022
 </p>
-<center>Московский ресторан White Rabbit - обладатель звезды Michelin 2022</center>
 
 ---
 
@@ -45,6 +46,7 @@
 
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)**
 
 ---
